@@ -9,6 +9,8 @@ contributors:
 Intro
 
 ```asm
+main:
+	mov $10, %rax
 // Code!
 
 ```
